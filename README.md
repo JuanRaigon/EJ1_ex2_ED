@@ -15,9 +15,9 @@ VideoClub_Java_Eclipse es una aplicación desarrollada en Java que permite gesti
 
 ## Tecnología
 
--**Lenguaje:** Java
--**IDE:** Eclipse
--**Base de Datos:** SQLite
--**Framework GUI:** Swing (AWT)
--**Librerías Gráficas:** JFreeChart
--**Driver BD:** JDBC SQLite
+- **Lenguaje:** Java
+- **IDE:** Eclipse
+- **Base de Datos:** SQLite
+- **Framework GUI:** Swing (AWT)
+- **Librerías Gráficas:** JFreeChart
+- **Driver BD:** JDBC SQLite
