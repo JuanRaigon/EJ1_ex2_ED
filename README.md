@@ -10,7 +10,7 @@ VideoClub_Java_Eclipse es una aplicación desarrollada en Java que permite gesti
 - Registro de ventas y facturación
 - Generación de reportes estadísticos con gráficos
 - Base de datos SQLite integrada
-- Interfaz gráfica amigable con Swing
+- Interfaz gráfica con Swing
 
 
 ## Tecnología
@@ -21,3 +21,6 @@ VideoClub_Java_Eclipse es una aplicación desarrollada en Java que permite gesti
 - **Framework GUI:** Swing (AWT)
 - **Librerías Gráficas:** JFreeChart
 - **Driver BD:** JDBC SQLite
+
+## Datos específicos
+Dentro de la carpeta "src" y dentro de ella en la carpeta llamada "projet" se encentran todos los modelos e imagenes implementadas en la aplicación, por otro lado las configuraciones estan aparte en "settings"
