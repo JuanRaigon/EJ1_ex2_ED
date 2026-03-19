@@ -1,20 +1,23 @@
-# EJ1_ex2_ED
-1. INFORMACIÓN GENERAL DEL PROYECTO
-Nombre: VideoClub_Java_Eclipse
-Propietario: HatemHamdi
-Lenguaje: Java
-Tipo de Proyecto: Aplicación de Escritorio (Desktop)
-Fecha de Creación: 2 de Agosto de 2016
-Última Actualización: 4 de Agosto de 2016
-Acceso	Público
+# VideoClub_Java_Eclipse
 
-2. DESCRIPCIÓN GENERAL
-Esto es un sistema de gestión de videoclub desarrollado en Java.
-La aplicación permite:
+## Descripción General
 
--Añadir películas y directores
--Eliminar películas y directores
--Registrar ventas de películas
--Generar estadísticas y gráficos de ventas
--Gestionar una base de datos de SQLite
+VideoClub_Java_Eclipse es una aplicación desarrollada en Java que permite gestionar un videoclub. El sistema proporciona funcionalidades para administrar películas, directores, ventas y genera estadísticas visuales mediante gráficos.
 
+### Características Principales
+- Gestión completa de películas (agregar, eliminar, consultar)
+- Administración de directores
+- Registro de ventas y facturación
+- Generación de reportes estadísticos con gráficos
+- Base de datos SQLite integrada
+- Interfaz gráfica amigable con Swing
+
+
+## Tecnología
+
+**Lenguaje:** Java
+**IDE:** Eclipse
+**Base de Datos:** SQLite
+**Framework GUI:** Swing (AWT)
+**Librerías Gráficas:** JFreeChart
+**Driver BD:** JDBC SQLite
